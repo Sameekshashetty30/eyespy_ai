@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.pth
+*.h5
+
+# Datasets
+backend/cifar_data/
+
+# Compressed
+*.tar.gz
+*.zip
+
+# Virtual env
+venv/
+env/
